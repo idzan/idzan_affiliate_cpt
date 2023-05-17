@@ -46,7 +46,7 @@ function idzan_affiliate_cpt() {
         'label' => __( 'Affiliate', 'idzan-affiliates' ),
         'description' => __( 'Affiliates', 'idzan-affiliates' ),
         'labels' => $labels,
-        'menu_icon' => 'dashicons-portfolio',
+        'menu_icon' => 'dashicons-share',
         'supports' => array('title', 'editor', 'thumbnail', 'custom-fields'),
         'taxonomies' => array('affiliatecategory', 'affiliatetype'),
         'hierarchical' => false,
