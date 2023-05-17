@@ -3,7 +3,7 @@
 Plugin Name: Affiliates
 Plugin URI: https://idzan.eu
 Description: Custom Post Type for Affiliate Links
-Version: 1.0
+Version: 1.1
 Author: Idzan Marko
 Author URI: https://idzan.eu
 License: GPLv3
